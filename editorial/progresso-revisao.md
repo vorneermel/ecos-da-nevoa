@@ -11,3 +11,5 @@ Git local inicializado em 03/10/2026. GitHub: sincronização pendente. CLI gh n
 Método: transcrição por folha, confronto visual, mapa global, revisão estrutural e de linguagem, continuidade, comparação e produção dos arquivos. Rasuras legíveis incorporadas conforme intenção final; dúvidas de leitura registradas, sem inventar trechos.
 
 03/10/2026 — Backup: repositório público criado em https://github.com/vorneermel/ecos-da-nevoa e remoto origin configurado. Transcrição disponível em 53 arquivos; revisão integral e novos entregáveis ainda pendentes. Envio remoto em preparação; autenticação do Git em andamento. Autorização permanente de commit e push registrada na skill, sem nova confirmação.
+
+03/10/2026 — Primeiro push concluído: commit 8ccb2b4 enviado para origin/main, com 194 arquivos, incluindo originais PDF, 53 transcrições Markdown, imagens e EPUB fac-símile. Autenticação pelo Git Credential Manager concluída. Revisão editorial integral e entregáveis textuais finais permanecem pendentes.
