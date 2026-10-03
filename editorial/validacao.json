@@ -1,0 +1,19 @@
+{
+  "pdf_paginas": 53,
+  "esperado": 53,
+  "epub_xml": true,
+  "epub_zip": true,
+  "originais_preservados": true,
+  "epubcheck": "não executado",
+  "kindle_previewer": "não executado",
+  "revisao_integral": "não executada",
+  "inspecao_visual_pdf": {
+    "ferramenta": "Poppler pdftoppm",
+    "paginas": [
+      1,
+      53
+    ],
+    "cobertura": "amostral",
+    "resultado": "sem cortes novos ou deformações em relação às digitalizações; marcas, inclinações e transparência do verso preservadas"
+  }
+}
