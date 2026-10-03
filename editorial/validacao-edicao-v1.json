@@ -1,0 +1,165 @@
+{
+  "data": "2026-10-03",
+  "pdf": {
+    "paginas": 50,
+    "dimensoes_pt": [
+      432,
+      648
+    ],
+    "texto_integral": true,
+    "secoes": [
+      {
+        "secao": 0,
+        "paragrafos": 10,
+        "pagina_inicial": 4,
+        "epub_identico": true
+      },
+      {
+        "secao": 1,
+        "paragrafos": 13,
+        "pagina_inicial": 6,
+        "epub_identico": true
+      },
+      {
+        "secao": 2,
+        "paragrafos": 20,
+        "pagina_inicial": 8,
+        "epub_identico": true
+      },
+      {
+        "secao": 3,
+        "paragrafos": 20,
+        "pagina_inicial": 11,
+        "epub_identico": true
+      },
+      {
+        "secao": 4,
+        "paragrafos": 27,
+        "pagina_inicial": 14,
+        "epub_identico": true
+      },
+      {
+        "secao": 5,
+        "paragrafos": 18,
+        "pagina_inicial": 18,
+        "epub_identico": true
+      },
+      {
+        "secao": 6,
+        "paragrafos": 22,
+        "pagina_inicial": 21,
+        "epub_identico": true
+      },
+      {
+        "secao": 7,
+        "paragrafos": 24,
+        "pagina_inicial": 24,
+        "epub_identico": true
+      },
+      {
+        "secao": 8,
+        "paragrafos": 27,
+        "pagina_inicial": 28,
+        "epub_identico": true
+      },
+      {
+        "secao": 9,
+        "paragrafos": 18,
+        "pagina_inicial": 31,
+        "epub_identico": true
+      },
+      {
+        "secao": 10,
+        "paragrafos": 21,
+        "pagina_inicial": 34,
+        "epub_identico": true
+      },
+      {
+        "secao": 11,
+        "paragrafos": 16,
+        "pagina_inicial": 37,
+        "epub_identico": true
+      },
+      {
+        "secao": 12,
+        "paragrafos": 17,
+        "pagina_inicial": 40,
+        "epub_identico": true
+      },
+      {
+        "secao": 13,
+        "paragrafos": 19,
+        "pagina_inicial": 43,
+        "epub_identico": true
+      },
+      {
+        "secao": 14,
+        "paragrafos": 20,
+        "pagina_inicial": 46,
+        "epub_identico": true
+      },
+      {
+        "secao": 15,
+        "paragrafos": 4,
+        "pagina_inicial": 49,
+        "epub_identico": true
+      }
+    ],
+    "fontes_incorporadas": {
+      "/AAAAAA+Georgia-Bold": true,
+      "/AAAAAA+Georgia": true
+    },
+    "caracteres_fora_area_segura": [],
+    "prova_renderizada": 50,
+    "inspecao_visual": "50 páginas inspecionadas; correções de sumário e quebra de palavra revalidadas"
+  },
+  "epub": {
+    "xml_valido": true,
+    "links_validos": true,
+    "paragrafos_identicos": true,
+    "epubcheck": "não executado",
+    "kindle_previewer": "não executado"
+  },
+  "capa_digital": {
+    "pixels": [
+      1600,
+      2560
+    ],
+    "modo": "RGB"
+  },
+  "arquivos": {
+    "output\\pdf\\ecos-da-nevoa-revisado-v1.pdf": {
+      "bytes": 153637,
+      "sha256": "4a46bda04b16d00982a13d1d623d2b7a5adb0218a04bc238c535546ee9b1629d"
+    },
+    "output\\epub\\ecos-da-nevoa-revisado-v1.epub": {
+      "bytes": 544191,
+      "sha256": "66614d4c9a73d10cb362b0abd412aaf2f8f18e61383aab42c86c4dcd656e3fd6"
+    },
+    "output\\capa\\capa-digital-v1.jpg": {
+      "bytes": 503445,
+      "sha256": "51ae96eaed660388c715fdf0bfbc0b616d169d53bbd9f0fbc6b0688fc71dcbd7"
+    },
+    "output\\capa\\proposta-capa-impressa-v1.pdf": {
+      "bytes": 4066811,
+      "sha256": "1608a3858ef2926b3d004dff3add4ca06c7babf9e5ad7086f20dac69736a9aa5"
+    },
+    "edicao-textual\\livro-revisado.md": {
+      "bytes": 68971,
+      "sha256": "85ad091e42ff980bf82bb0476863c917e5be82848ab3aa910707a5b74b913881"
+    }
+  },
+  "capa_impressa": {
+    "estado": "proposta",
+    "paginas_miolo": 50,
+    "papel_proposto": "creme",
+    "lombada_mm": 3.175,
+    "arte_pixels": [
+      992,
+      1586
+    ],
+    "ppi_efetivo_aproximado": 165,
+    "template_kdp": "não aplicado",
+    "print_previewer": "não executado"
+  }
+}

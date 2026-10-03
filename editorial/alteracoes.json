@@ -1,0 +1,586 @@
+[
+  {
+    "capitulo": 4,
+    "tipo": "preparação",
+    "motivo": "Grafia predominante do sobrenome.",
+    "antes": "Oliver Glauiel",
+    "depois": "Oliver Glauier",
+    "ocorrencias": 2
+  },
+  {
+    "capitulo": 3,
+    "tipo": "preparação",
+    "motivo": "Grafia predominante; mesma parceira de Maia.",
+    "antes": "Luna",
+    "depois": "Luana",
+    "ocorrencias": 2
+  },
+  {
+    "capitulo": 4,
+    "tipo": "preparação",
+    "motivo": "Grafia predominante; mesma parceira de Maia.",
+    "antes": "Luna",
+    "depois": "Luana",
+    "ocorrencias": 2
+  },
+  {
+    "capitulo": 6,
+    "tipo": "preparação",
+    "motivo": "Grafia predominante do personagem.",
+    "antes": "Natã",
+    "depois": "Natan",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 0,
+    "tipo": "preparação",
+    "motivo": "Nome do rio; substantivo geográfico em minúscula.",
+    "antes": "Rio dos Sinos",
+    "depois": "rio dos Sinos",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "preparação",
+    "motivo": "Nome do rio; substantivo geográfico em minúscula.",
+    "antes": "Rio dos Sinos",
+    "depois": "rio dos Sinos",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 1,
+    "tipo": "preparação",
+    "motivo": "Clareza da descrição arquitetônica.",
+    "antes": "casarão estilo castelo histórico do século XIX",
+    "depois": "casarão histórico do século XIX, em estilo de castelo",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 0,
+    "tipo": "preparação",
+    "motivo": "Pontuação e repetição de carregavam/carregava.",
+    "antes": "Seus olhos sempre fixos na linha do horizonte nublado carregavam o cansaço de quem carregava um segredo pesado demais para as forças humanas.",
+    "depois": "Seus olhos, sempre fixos na linha do horizonte nublado, revelavam o cansaço de quem carregava um segredo pesado demais para as forças humanas.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 2,
+    "tipo": "continuidade",
+    "motivo": "O casarão só foi construído anos depois.",
+    "antes": "A lógica, porém, havia abandonado aquele casarão em 1824.",
+    "depois": "A lógica, porém, havia abandonado aquele lugar com a chegada de Johann, em 1824.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 2,
+    "tipo": "preparação",
+    "motivo": "Reparação da sintaxe.",
+    "antes": "Dispostas em um semicírculo perfeito no chão do salão e ali estavam as estátuas.",
+    "depois": "Ali estavam as estátuas, dispostas em um semicírculo no chão do salão.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 2,
+    "tipo": "continuidade",
+    "motivo": "Materiais das estátuas.",
+    "antes": "No centro daquele semicírculo de pedra e gesso",
+    "depois": "No centro daquele semicírculo de barro e gesso",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 3,
+    "tipo": "preparação",
+    "motivo": "Separação de períodos.",
+    "antes": "como se tudo estivesse normal, afinal, as contas",
+    "depois": "como se tudo estivesse normal. Afinal, as contas",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 3,
+    "tipo": "preparação",
+    "motivo": "Complemento do verbo.",
+    "antes": "No momento em que fez,",
+    "depois": "No momento em que fez isso,",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 3,
+    "tipo": "preparação",
+    "motivo": "Paralelismo sintático.",
+    "antes": "O poder combinado de Emanuel e a barreira mística de Mateus foram suficientes",
+    "depois": "O poder de Emanuel e a barreira mística de Mateus foram suficientes",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 3,
+    "tipo": "continuidade",
+    "motivo": "A seleção mística é explícita no capítulo anterior.",
+    "antes": "Não por escolha mística do passado, mas porque o presente os estava forçando",
+    "depois": "O chamado do passado os reunira, e o presente os estava forçando",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "continuidade",
+    "motivo": "Seis no campus e seis no portão: doze pessoas.",
+    "antes": "havia mais sete pessoas.",
+    "depois": "havia mais seis pessoas.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "decisão autoral",
+    "motivo": "Identidade e casamento confirmados pelo autor.",
+    "antes": "Era Oliver Glauier, acompanhado por Andressa.",
+    "depois": "Era Oliver Glauier, acompanhado pela esposa, Flora Rosana.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "preparação",
+    "motivo": "Apresentação do nome completo.",
+    "antes": "Ao lado deles, Gustavo Henrique e Ágata acenaram com a cabeça.",
+    "depois": "Ao lado deles, Gustavo Henrique e Ágata Maressa acenaram com a cabeça.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "decisão autoral",
+    "motivo": "Unificar Flora Rosana e preservar Gabriela e Andressa, sem criar vínculo amoroso entre elas.",
+    "antes": "No canto, Gabriela e Flora carregavam bolsas com ervas e frascos místicos, preparadas para o pior, enquanto Rosana, uma mulher de olhar profundo e mãos sujas da poeira branca, observava as paredes do casarão como se pudesse ler sua alma.",
+    "depois": "No canto, Gabriela e Andressa carregavam bolsas com ervas e frascos místicos, preparadas para o pior. Flora Rosana, uma mulher de olhar profundo e mãos sujas de poeira branca, observava as paredes do casarão como se pudesse ler sua alma.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "continuidade",
+    "motivo": "Contagem das pessoas nomeadas.",
+    "antes": "as quatorze pessoas",
+    "depois": "as doze pessoas",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "decisão autoral",
+    "motivo": "Identidade confirmada.",
+    "antes": "Rosana caminhou até elas",
+    "depois": "Flora Rosana caminhou até elas",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "continuidade",
+    "motivo": "Doze integrantes, dos quais dois líderes.",
+    "antes": "cada um dos doze guerreiros ali presentes",
+    "depois": "cada um dos dez companheiros ali presentes",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "decisão autoral",
+    "motivo": "Missão investigativa do casal confirmado.",
+    "antes": "Oliver e Andressa, vocês",
+    "depois": "Oliver e Flora, vocês",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "decisão autoral",
+    "motivo": "Distribuir as tarefas sem duplicar Flora Rosana.",
+    "antes": "Gabriela e Flora cuidam dos feridos. E Rosana... você",
+    "depois": "Gabriela e Andressa cuidam dos feridos. E Flora... você",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "continuidade",
+    "motivo": "Seguidores além dos dois líderes.",
+    "antes": "Os doze defensores olharam",
+    "depois": "Os dez defensores olharam",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 5,
+    "tipo": "continuidade",
+    "motivo": "Evitar ordinal incompatível com a composição do grupo.",
+    "antes": "o quarto casal trabalhava incansavelmente",
+    "depois": "Oliver e Flora Rosana trabalhavam incansavelmente",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 5,
+    "tipo": "complementação local",
+    "motivo": "Reparação de frase e posição do chão; ligação local.",
+    "antes": "Ela não olhou para o portal de argila batida e segurou a mão direita dele, entrelaçando seus dedos.",
+    "depois": "Ela se aproximou de Emanuel sobre o chão de argila batida e segurou a mão direita dele, entrelaçando os dedos.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Há cinco casais e duas integrantes de apoio.",
+    "antes": "O Conselho dos Quatro Casais",
+    "depois": "O Conselho da Sociedade",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "preparação",
+    "motivo": "Duplicação acidental.",
+    "antes": "O salão infinito o salão infinito",
+    "depois": "O salão infinito",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Preservar os casais e incluir as duas integrantes sem par declarado.",
+    "antes": "É por isso que a sociedade é feita de casais. A cumplicidade e o amor entre vocês são as nossas maiores armas",
+    "depois": "É por isso que tantos de nós fomos chamados em pares. A cumplicidade e o amor entre nós são as nossas maiores armas",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Evitar atribuir um par não documentado a Gabriela e Andressa.",
+    "antes": "Eles finalmente entenderam por que a natureza os havia escolhido em pares.",
+    "depois": "Eles finalmente entenderam a força dos laços que os reuniam.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Três peças confirmadas nos capítulos posteriores.",
+    "antes": "ele dividiu a essência da chave em um artefato místico. Ele escondeu a primeira parte desse artefato no lugar de onde fugiu:",
+    "depois": "ele dividiu a essência da chave entre três relíquias místicas. Escondeu a primeira no lugar de onde fugiu:",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Divisão da chave deve anteceder a partida.",
+    "antes": "Para conseguir contê-la temporariamente enquanto construía o casarão,",
+    "depois": "Para conseguir contê-la temporariamente durante a travessia e a construção do casarão,",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "O retorno é sabotado antes da reunião das três peças.",
+    "antes": "selar a primeira das três conexões globais. Para sempre.",
+    "depois": "enfraquecer a primeira das três conexões globais. As três relíquias reunidas nos permitirão selar as rotas da sombra.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Número de seguidores.",
+    "antes": "depois para seus doze guerreiros",
+    "depois": "depois para seus dez companheiros",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Ordinal removido.",
+    "antes": "Ele então olhou para o quarto casal e depois para sua esposa.",
+    "depois": "Ele então olhou para Oliver e Flora e depois para sua esposa.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "continuidade",
+    "motivo": "Oito ficam; quatro viajam.",
+    "antes": "Mateus, Natan, Luana, Maia, Gustavo Henrique e Ágata Maressa... vocês ficam.",
+    "depois": "Mateus, Natan, Luana, Maia, Gustavo Henrique, Ágata Maressa, Gabriela e Andressa... vocês ficam.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 7,
+    "tipo": "continuidade",
+    "motivo": "Coerência da equipe de apoio.",
+    "antes": "Gabriela e Flora haviam preparado",
+    "depois": "Gabriela e Andressa haviam preparado",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 8,
+    "tipo": "preparação",
+    "motivo": "Remover repetição integral imediatamente seguida por versão equivalente.",
+    "antes": "— As paredes... elas não são de pedra comum — observou Oliver, tocando o relevo escuro do corredor subterrâneo. — Isso é argila misturada com minério de ferro antigo. É o mesmo material do nosso casarão no Vale dos Sinos. Mas corrompido pelo tempo.\n\n",
+    "depois": "",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 8,
+    "tipo": "preparação",
+    "motivo": "Clareza do referente.",
+    "antes": "No centro do salão, livre de seus protetores,",
+    "depois": "No centro do salão, sem seus guardiões,",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 8,
+    "tipo": "preparação",
+    "motivo": "Registro narrativo em português.",
+    "antes": "o primeiro round na Europa",
+    "depois": "o primeiro confronto na Europa",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 10,
+    "tipo": "preparação",
+    "motivo": "Construção sintática.",
+    "antes": "e transformando-se em um turbilhão violeta caótico.",
+    "depois": "transformando-se em um turbilhão violeta caótico.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 10,
+    "tipo": "continuidade",
+    "motivo": "Mateus integra um dos três casais que ficaram; há duas auxiliares.",
+    "antes": "olhando para os outros três casais",
+    "depois": "olhando para os outros defensores",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 10,
+    "tipo": "preparação",
+    "motivo": "Dinamite não é chamada de pólvora.",
+    "antes": "gerou uma faísca direto na pólvora centenária.",
+    "depois": "gerou uma faísca que atingiu os explosivos centenários.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 10,
+    "tipo": "preparação",
+    "motivo": "Precisão lexical.",
+    "antes": "disparando sua lanterna em direção",
+    "depois": "apontando sua lanterna em direção",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 10,
+    "tipo": "continuidade",
+    "motivo": "Nevada tem gesso e ouro.",
+    "antes": "a segunda relíquia de gesso e ferro",
+    "depois": "a segunda relíquia",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 11,
+    "tipo": "preparação",
+    "motivo": "Ação fisicamente clara.",
+    "antes": "aproximando as lentes de seus óculos de uma parede de metal.",
+    "depois": "aproximando-se de uma parede de metal para examinar os símbolos.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 11,
+    "tipo": "continuidade",
+    "motivo": "A cidade americana pode ser posterior; diário não limitado a 1824.",
+    "antes": "desenhou em seu diário em 1824",
+    "depois": "registrou em seu diário",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 11,
+    "tipo": "preparação",
+    "motivo": "Reparação do fragmento; sujeito explícito.",
+    "antes": "Rezando para que o destino final os levasse de volta para os braços da sociedade secreta no Rio Grande do Sul.",
+    "depois": "Ela torcia para que o destino final os levasse de volta aos companheiros da sociedade secreta no Rio Grande do Sul.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 12,
+    "tipo": "continuidade",
+    "motivo": "Emanuel também chegou à Sibéria.",
+    "antes": "Jade, Oliver e Flora ergueram-se sob uma nevasca",
+    "depois": "Os quatro ergueram-se sob uma nevasca",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 12,
+    "tipo": "continuidade",
+    "motivo": "Quatro viajantes.",
+    "antes": "No mesmo milésimo de segundo em que o casal pisou",
+    "depois": "No mesmo instante em que o grupo pisou",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 13,
+    "tipo": "continuidade",
+    "motivo": "A peça seguinte é uma coroa.",
+    "antes": "o formato que desafiava a biologia",
+    "depois": "o formato de uma coroa que parecia desafiar as leis da matéria",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 13,
+    "tipo": "preparação",
+    "motivo": "Sintaxe e redução da repetição.",
+    "antes": "toda a sua força de seu casamento e de seu poder",
+    "depois": "toda a força de seu poder e do laço que o unia a Jade",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 13,
+    "tipo": "continuidade",
+    "motivo": "Três casais e duas auxiliares ficaram no Brasil.",
+    "antes": "Os quatro casais defensores gritaram",
+    "depois": "Os oito defensores gritaram",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 13,
+    "tipo": "continuidade",
+    "motivo": "Cinco casais e duas auxiliares.",
+    "antes": "os sete casais reunidos",
+    "depois": "os companheiros reunidos",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 13,
+    "tipo": "continuidade",
+    "motivo": "Comando abrange todos os integrantes.",
+    "antes": "— Casais, preparem-se!",
+    "depois": "— Defensores, preparem-se!",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 14,
+    "tipo": "preparação",
+    "motivo": "Preposição ausente.",
+    "antes": "desabou o casarão",
+    "depois": "desabou sobre o casarão",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 14,
+    "tipo": "preparação",
+    "motivo": "Regência e pronome.",
+    "antes": "fazendo colidirem uns contra os outros",
+    "depois": "fazendo-os colidir uns contra os outros",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 14,
+    "tipo": "continuidade",
+    "motivo": "Materiais estabelecidos.",
+    "antes": "As estátuas de pedra empunharam",
+    "depois": "As estátuas de gesso e barro empunharam",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 14,
+    "tipo": "preparação",
+    "motivo": "Artigo e precisão lexical.",
+    "antes": "focando toda energia purificadora",
+    "depois": "concentrando toda a energia purificadora",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 14,
+    "tipo": "preparação",
+    "motivo": "Padronização da fala em travessão.",
+    "antes": "“Pela terra, pelo sul e pelo nosso amanhã!”, suas vozes ecoaram em uníssono.",
+    "depois": "— Pela terra, pelo sul e pelo nosso amanhã! — Suas vozes ecoaram em uníssono.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 15,
+    "tipo": "continuidade",
+    "motivo": "Doze pessoas preservadas no desfecho.",
+    "antes": "Os oito casais se reuniram ao redor da mesa de argila central.",
+    "depois": "Os cinco casais, Gabriela e Andressa se reuniram ao redor da mesa de argila central.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 15,
+    "tipo": "continuidade",
+    "motivo": "A população desconhece os acontecimentos; manter a vitória secreta.",
+    "antes": "a maior lenda que o mundo jamais esqueceria.",
+    "depois": "uma lenda que os guardiões jamais esqueceriam.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 10,
+    "tipo": "complementação local",
+    "motivo": "Dar continuidade à função de apoio já atribuída.",
+    "antes": "— Nós não podemos desistir — declarou Mateus,",
+    "depois": "Gabriela e Andressa recolhiam os feridos para junto da mesa, mantendo os frascos de seiva ao alcance dos defensores.\n\n— Nós não podemos desistir — declarou Mateus,",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 1,
+    "tipo": "complementação local",
+    "motivo": "Ligação mínima com a situação financeira já apresentada.",
+    "antes": "Eles compraram o imóvel naquela mesma semana.",
+    "depois": "Eles compraram o imóvel naquela mesma semana. O preço baixo tornou possível o que, até então, parecera fora de alcance.",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 1,
+    "tipo": "continuidade",
+    "motivo": "Apresentar o casal já estabelecido nas alianças posteriores.",
+    "antes": "Para dois estudantes universitários que tentavam equilibrar as contas",
+    "depois": "Para Emanuel e Jade, um casal de estudantes universitários que tentava equilibrar as contas",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 5,
+    "tipo": "preparação",
+    "motivo": "Reduzir repetição dos nomes.",
+    "antes": "Oliver e Flora Rosana trabalhavam incansavelmente. Oliver Glauier e Flora Rosana estavam cercados",
+    "depois": "Oliver Glauier e Flora Rosana trabalhavam incansavelmente, cercados",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 6,
+    "tipo": "preparação",
+    "motivo": "Referente da ameaça é a névoa.",
+    "antes": "Se eles conseguirem, a Terra",
+    "depois": "Se a sombra conseguir, a Terra",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 7,
+    "tipo": "preparação",
+    "motivo": "Título da parte coerente com a cena.",
+    "antes": "## Parte 1\n",
+    "depois": "## Parte 1 — Os Preparativos\n",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 5,
+    "tipo": "preparação",
+    "motivo": "Evitar repetição criada ao reparar a frase.",
+    "antes": "Jade Hadassa aproximou-se. Ela se aproximou de Emanuel sobre o chão de argila batida e segurou",
+    "depois": "Jade Hadassa caminhou até Emanuel sobre o chão de argila batida e segurou",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 5,
+    "tipo": "preparação",
+    "motivo": "Reunir continuação da fala de Oliver na virada da folha.",
+    "antes": "simultaneamente.\n\nSe a névoa",
+    "depois": "simultaneamente. Se a névoa",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 4,
+    "tipo": "continuidade",
+    "motivo": "Os casais já se conhecem.",
+    "antes": "Eles não pareciam se reconhecer, mas todos",
+    "depois": "Alguns pareciam desconhecidos entre si, mas todos",
+    "ocorrencias": 1
+  },
+  {
+    "capitulo": 3,
+    "tipo": "continuidade",
+    "motivo": "Descoberta/chamado na terça-feira; ataque na quinta-feira.",
+    "antes": "Três dias haviam passado desde a descoberta",
+    "depois": "Dois dias haviam passado desde a descoberta",
+    "ocorrencias": 1
+  }
+]
